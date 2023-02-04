@@ -1,4 +1,4 @@
-# TRAFFIC-LIGHT-control-with-Arduino
+# TRAFFIC-LIGHT-control-system
 Traffic control easily and not expensive  
 Traffic control is a critical element in the safe and efficient operation of any transportation system. Elaborate operational procedures, rules and laws, and physical devices (e.g., signs, markings, and lights) are but a few of the components of any traffic control system. At the centre of any system is the operator: a driver or pedestrian in a roadway system, a pilot in aviation or maritime systems, and a locomotive engineer in railway systems. While traffic control can be considered initially as a need to control or influence large numbers of vehicles, it is important to realize that traffic is made up of a large number of individual operators who collectively must make consistent decisions in order for the systems to work safely and efficiently.
 
