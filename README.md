@@ -9,11 +9,11 @@ The operator receives most immediate and direct information from the vehicle. In
 
 In addition to vehicle inputs, the operator’s decision making is influenced by the information provided by the guideway and its associated infrastructure. Because infrastructure is man-made, it is one of the places where proper design and procedures provide an important foundation for operating safety. For example, roadway systems set precise standards for the size, shape, colour, and use of road signs and markings. These standards have the goal of improving road safety and efficiency by providing the driver with consistent information regarding hazards, control of right-of-way (e.g., stop signs or signals), and direction guidance (e.g., “Highway 66 next left”). Aviation, maritime, and rail systems also have elaborate standards, all with one goal in mind: to reduce accidents and increase efficiency through the consistent and effective use of standard traffic control devices. Clearly aviation, and to some degree maritime, systems cannot place physical signs in the sky or sea. Electronic signs or signals, particularly communication devices, are used instead to guide the vehicle and operator.
 
-# For that me Ingineer in Electrical & Electronic Engineering (Mr Tietibieka Moussine)
+# Simulation with Proteus
 Propose,describe and design this project in Proteus8, where i will explain you very clearfully this project
-# Proposal circuit
+## Proposal circuit
 ![image](https://user-images.githubusercontent.com/105424030/216786530-2f94126c-cd6f-4553-909f-d8cb0645137b.png)
-# Proposal circuit simulation
+## Proposal circuit simulation
 ![image](https://user-images.githubusercontent.com/105424030/216786654-299cb9cb-b70d-4e0b-b4b3-bf60a7ee5098.png)
 
 
